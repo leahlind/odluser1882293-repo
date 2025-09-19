@@ -6,6 +6,8 @@ import htmlreplace from 'gulp-html-replace';
 import { exec } from 'child_process';
 import imagemin from 'gulp-imagemin';
 
+//sos
+
 // Define paths
 const paths = {
   styles: {
